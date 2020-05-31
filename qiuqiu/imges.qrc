@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/about.png</file>
+        <file>img/min.png</file>
+        <file>img/quit.png</file>
+        <file>img/skin.png</file>
+        <file>img/touxiang.png</file>
+        <file>img/default.jpg</file>
+        <file>img/setting.png</file>
+    </qresource>
+</RCC>
